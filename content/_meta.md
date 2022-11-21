@@ -1,8 +1,8 @@
 ---
-Logo: assets/img/leaf_256x256.png
+Logo: assets/img/logo.png
 Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+      url: https://github.com/dabo22/design_portfolio
       icon: github
 ---
