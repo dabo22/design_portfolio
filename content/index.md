@@ -1,11 +1,12 @@
 ---
 Title: Home
-Description: This is our index page.
+Description: Start page of my design portfolio
 ---
 
-Home page
+Design Portfolio
 ==========================
 
-The source for this page is in `content/index.md`.
+This is my portfolio page. I'm 204 cm tall, hence the goofy pic.
 
-This is a sample home page written in markdown with some frontmatter defined.
+
+<img id="main-pic" src="assets/img/goofy.png" alt="Picture of Goofy"> 
