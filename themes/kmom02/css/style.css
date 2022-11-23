@@ -3,6 +3,7 @@
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Lato&display=swap");
 .fa,
 .fas,
 .far,
@@ -6458,14 +6459,28 @@ pre code {
 }
 
 * {
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #000;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 body {
   background-color: whitesmoke;
+  max-width: 60%;
+  margin: auto;
+}
+
+img.small {
+  width: 300px;
+  border: 15px;
+  border-color: black;
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+.container {
+  flex-shrink: 0;
 }

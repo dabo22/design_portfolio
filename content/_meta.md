@@ -1,5 +1,6 @@
 ---
 Logo: assets/img/logo.png
+Goofy: assets/img/goofy.png
 Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
