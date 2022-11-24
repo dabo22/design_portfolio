@@ -11,13 +11,25 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Lato&display=swap');
 
+.main {
+    display: inline-block;
+    width: $content-width;
+}
+
 * {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 
+    sans-serif;
     color: $font-color;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', 
+    sans-serif;
 }
 
 body {
@@ -26,14 +38,34 @@ body {
     margin: auto;
 }
 
-img.small {
+.small {
     width: 300px;
     border: 15px;
-    border-color: black;
-    float: left;    
+    border-color: #000;
+    float: left;
     margin: 0 15px 0 0;
 }
 
-.container {
-    flex-shrink: 0;
-    }
+.logo-img {
+    width: 150px;
+}
+
+// #nav-list {
+// 	min-width: 696px;
+// 	list-style: none;
+// 	padding-top: 20px;
+// 	}
+
+.nav-item {
+    display: inline;
+}
+
+.active {
+    display: inline;
+}
+
+.social-button {
+    // float: right;
+    padding-top: 1em;
+    padding-left: 0.3em;
+}

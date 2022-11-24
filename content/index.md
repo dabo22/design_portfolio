@@ -3,8 +3,12 @@ Title: Home
 Description: Start page of my design portfolio
 ---
 
-Design Portfolio
+Home
 ==========================
 
-![Pic of goofy](assets/img/goofy.png) {.small}  
-This is my portfolio page. I'm 2044 cm tall, hence the goofy pic.
+
+
+![Pic of goofy](assets/img/goofy2.png) {.small}  
+
+This is my portfolio page. I'm 204 cm tall, hence the goofy pic.
+
